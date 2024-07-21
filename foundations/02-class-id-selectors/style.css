@@ -1,0 +1,17 @@
+.oddball {
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+.bigball {
+    font-size: 24px;
+}
+
+#bigTwo {
+    color: blue;
+}
+
+#bigFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style:  bold;
+}
